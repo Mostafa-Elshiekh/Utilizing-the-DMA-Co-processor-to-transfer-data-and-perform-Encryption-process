@@ -1,0 +1,8 @@
+STM32f103_Drivers/STM32_F103C6_GPIO_DRIVERS.o: \
+ ../STM32f103_Drivers/STM32_F103C6_GPIO_DRIVERS.c \
+ E:/study/StmCubeIdeProject/DMA/STM32f103_Drivers/INC/STM32F103C6_GPIO_DRIVERS.h \
+ E:/study/StmCubeIdeProject/DMA/STM32f103_Drivers/INC/STM32_F103C6.h
+
+E:/study/StmCubeIdeProject/DMA/STM32f103_Drivers/INC/STM32F103C6_GPIO_DRIVERS.h:
+
+E:/study/StmCubeIdeProject/DMA/STM32f103_Drivers/INC/STM32_F103C6.h:
